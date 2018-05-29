@@ -1,0 +1,13 @@
+{
+    "extensions": [
+        "Angular.ng-template",
+        "MS-CEINTL.vscode-language-pack-es",
+        "PKief.material-icon-theme",
+        "christian-kohler.npm-intellisense",
+        "deerawan.vscode-faker",
+        "eg2.tslint",
+        "eg2.vscode-npm-script",
+        "fknop.vscode-npm",
+        "golf1052.code-sync"
+    ]
+}
